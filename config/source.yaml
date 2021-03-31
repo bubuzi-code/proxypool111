@@ -2,6 +2,11 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    
+ # 模糊抓取订阅链接1
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/adskd/ffasdc1/main/asub.list  
 
 # 订阅链接
 - type: subscribe
