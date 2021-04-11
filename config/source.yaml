@@ -6,7 +6,7 @@
  # 模糊抓取订阅链接1
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/adskd/ffasdc1/main/asub.list  
+    url: https://raw.githubusercontent.com/adskd/ffasdc1/main/asub.list
 
 # 订阅链接
 - type: subscribe
@@ -16,7 +16,7 @@
 # 订阅链接1
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/proxy.txt   
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/proxy.txt 
 
 # 订阅链接2
 - type: subscribe
