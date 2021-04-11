@@ -78,7 +78,7 @@ make
 ### 5. 使用docker
 
 ```sh
-docker pull ghcr.io/sansui233/proxypool:v0.6.1
+docker pull ghcr.io/sansui233/proxypool:v0.6.0
 ```
 
 ## 使用
