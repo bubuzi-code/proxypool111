@@ -371,7 +371,7 @@
     url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
     num: 200
 
-# clash格式订阅链接
+# clash格式订阅链接 
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
