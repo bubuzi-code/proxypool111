@@ -340,8 +340,8 @@
 - type: tgchannel
   options:
     channel: freeshadowsock
-    num: 200	
-	
+    num: 200
+
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
